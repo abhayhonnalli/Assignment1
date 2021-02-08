@@ -4,7 +4,7 @@ public class ReverseNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int num=0;
+		int num;
 	      int reversenum =0;
 	      System.out.println("Input your number to be reversed: ");
 	      
